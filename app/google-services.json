@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "668458855766",
+    "project_id": "findby2-ed89f",
+    "storage_bucket": "findby2-ed89f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668458855766:android:0ab92d1626b330d670baf7",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.findby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668458855766-a539lit7mtvqbl7qq0hl1o9acbrsshbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.findby",
+            "certificate_hash": "2ee11534575aa8b146a76bd351a2fbcd21bd1acc"
+          }
+        },
+        {
+          "client_id": "668458855766-nf6n1sb935dh34obk75t13j4gi5dl3k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuSUoYOGU2KUfTsb1E1u-e3U3JSBKm_TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668458855766-nf6n1sb935dh34obk75t13j4gi5dl3k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
